@@ -1,8 +1,4 @@
 my name is gourav
-<<<<<<< HEAD
 my friends name is Bhushan
 
-my fav game is cricket
-=======
-my friends name is Tejas
->>>>>>> c2bcad989326c1644802cef67a76f86a11cfb53a
+
